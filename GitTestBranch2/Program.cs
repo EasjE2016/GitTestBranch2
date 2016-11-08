@@ -10,6 +10,7 @@ namespace GitTestBranch2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dette er test af git branching");
         }
     }
 }
